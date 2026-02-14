@@ -2,7 +2,7 @@
 
 Um auto clicker simples feito em Python usando `pyautogui`.
 
-Ele clica automaticamente até você mover o mouse para o canto superior
+Ele clica automaticamente até você apertar X ou mover o mouse para o canto superior
 esquerdo da tela (fail-safe de segurança).
 
 ------------------------------------------------------------------------
