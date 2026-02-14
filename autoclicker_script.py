@@ -1,5 +1,3 @@
-from multiprocessing.resource_sharer import stop
-from time import sleep
 import pyautogui
 import keyboard as keyboard_lib
 
