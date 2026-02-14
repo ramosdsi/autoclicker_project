@@ -1,0 +1,11 @@
+from multiprocessing.resource_sharer import stop
+from time import sleep
+import pyautogui
+import keyboard as keyboard_lib
+
+print('digite h para iniciar o programa')
+keyboard_lib.wait('h')
+print('digite x para encerrar o programa')
+
+while not keyboard_lib.wait('x'):
+    pyautogui.click
